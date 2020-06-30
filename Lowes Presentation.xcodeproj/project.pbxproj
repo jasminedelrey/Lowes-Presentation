@@ -15,6 +15,7 @@
 		3999B1B524AAC64000428F3A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3999B1B324AAC64000428F3A /* LaunchScreen.storyboard */; };
 		3999B1C024AAC64000428F3A /* Lowes_PresentationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3999B1BF24AAC64000428F3A /* Lowes_PresentationTests.swift */; };
 		3999B1CB24AAC64000428F3A /* Lowes_PresentationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3999B1CA24AAC64000428F3A /* Lowes_PresentationUITests.swift */; };
+		53C0D9AD24ABBA0C00F5862A /* PresentationMainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53C0D9AC24ABBA0C00F5862A /* PresentationMainStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3999B1C624AAC64000428F3A /* Lowes PresentationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lowes PresentationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3999B1CA24AAC64000428F3A /* Lowes_PresentationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lowes_PresentationUITests.swift; sourceTree = "<group>"; };
 		3999B1CC24AAC64000428F3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53C0D9AC24ABBA0C00F5862A /* PresentationMainStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = PresentationMainStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3999B1B124AAC64000428F3A /* Assets.xcassets */,
 				3999B1B324AAC64000428F3A /* LaunchScreen.storyboard */,
 				3999B1B624AAC64000428F3A /* Info.plist */,
+				53C0D9AC24ABBA0C00F5862A /* PresentationMainStoryboard.storyboard */,
 			);
 			path = "Lowes Presentation";
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			files = (
 				3999B1B524AAC64000428F3A /* LaunchScreen.storyboard in Resources */,
 				3999B1B224AAC64000428F3A /* Assets.xcassets in Resources */,
+				53C0D9AD24ABBA0C00F5862A /* PresentationMainStoryboard.storyboard in Resources */,
 				3999B1B024AAC63F00428F3A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
